@@ -1,6 +1,7 @@
 *.pt
 */dataset
 */lfw-deepfunneled
+sentiment140.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
